@@ -1,0 +1,8 @@
+This file was created and used while doing the Udacity "How to use Git and GitHub" course
+
+What happens when you initialize a repository? Why do you need to do it?
+Git creates hidden metadata files. These metadata files will be used to store commit history, changes made, etc
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is an intermedery between the wd and res. It allows you to choose what files should be included in the commit.
+This gives a lot of flexability.
