@@ -14,3 +14,8 @@ Then committing them before adding the files releated to the next logical change
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When making big changes, exprimentle features or ones that might break the code.
 Branches act as labels and make it clear which features are a part of what as the commits are kept seperate.
+
+How do the diagrams help you visualize the branch structure?
+They show the reachablity of each commit.
+They are also useful for identifing where branches are in relation to each other
+as well as the master branch.
