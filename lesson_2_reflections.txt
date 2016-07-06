@@ -27,3 +27,9 @@ ie the latest commits of each branch.
 This new commit becomes the new head and will contain all of the changes made from both branches.
 Its represent like that in the diagram as we will still have access to all of their commits.
 Commits are organised by timestamp.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Gits auto merging can be extremely quick and easy to use.
+It allows large amount of code from different versions to be combined.
+Merge conflicts can be sometimes difficult to resolve,
+but is still far less complicated than merging manually.
