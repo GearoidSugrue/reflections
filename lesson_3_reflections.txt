@@ -6,3 +6,15 @@ Why might you want to always pull changes manually rather than having Git automa
 As more than one person can be working on a respository there may be changes that cause conflicts.
 If git pulled automatically it could cause problems and may even break the code.
 Pulling manually allows you more flexablity.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Cloning copies the current state of the entire repository into another location. 
+It can be used to copy the remote repositorys on GitHub into the local machine.
+Or even from one local working directory into another.
+
+Forking can only be done on GitHub. It copies an entire repository into your GitHub account.
+The differce between cloining is that it still gives the original respository creator credit.
+It also only takes the click of a button to fork.
+
+Branches are often used when implementing new features or large changes or different functionality.
+They are within the repository itself.
