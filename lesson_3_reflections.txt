@@ -24,3 +24,10 @@ It makes it easy to see how many commits ahead you are
 but also how many commits behind the remote on GitHub you are.
 It is very useful when your going offline for awhile as it can update the local copy.
 This can be done without merging, so you dont have to merge until your ready.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+The advantage would be that no one would need to be able to use git.
+Something like a Dropbox shared folder could be used. 
+This would make it difficult to avoid messing up each others changes. 
+It would still be much harder without git.
+If the code is broken it could be very difficult to track down the cause.
