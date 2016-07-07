@@ -18,3 +18,9 @@ It also only takes the click of a button to fork.
 
 Branches are often used when implementing new features or large changes or different functionality.
 They are within the repository itself.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It makes it easy to see how many commits ahead you are 
+but also how many commits behind the remote on GitHub you are.
+It is very useful when your going offline for awhile as it can update the local copy.
+This can be done without merging, so you dont have to merge until your ready.
