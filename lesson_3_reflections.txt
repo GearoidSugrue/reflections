@@ -31,3 +31,8 @@ Something like a Dropbox shared folder could be used.
 This would make it difficult to avoid messing up each others changes. 
 It would still be much harder without git.
 If the code is broken it could be very difficult to track down the cause.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+It is best to create a new branch whenever you are adding a new feature, particulary if working with other people.
+Working on a new branch help ensures that there is always a working version of the code.
+Working directly on master may be quicker but can lead to the code not working while working on a new feature.
